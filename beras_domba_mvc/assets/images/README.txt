@@ -1,0 +1,1 @@
+Simpan gambar lokal website di folder ini. Jika memakai gambar lokal, ubah alamat src pada views/home/index.php atau data image_url pada database.
